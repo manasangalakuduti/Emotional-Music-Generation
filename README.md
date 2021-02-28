@@ -1,6 +1,6 @@
-## Group 11 - CS 4641 Project
+# Group 11 - CS 4641 Project
 
-# Touchpoint 1 and Project Proposal
+## Touchpoint 1 and Project Proposal
 Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  Pranav Kandarpa, Bradford Peterson
 
 <strong> Abstract </strong> (What is the problem? What was done previously? How do you approach it? What are the

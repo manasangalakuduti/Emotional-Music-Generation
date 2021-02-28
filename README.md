@@ -1,5 +1,3 @@
-# Group 11 - CS 4641 Project
-
 ## Touchpoint 1 and Project Proposal
 Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  Pranav Kandarpa, Bradford Peterson
 
@@ -43,4 +41,3 @@ t + 1. Because we are trying to predict the next t+1 vector based from the previ
 <strong> Conclusion </strong> (What have we learned with this project?):
 
 This project will teach us about the patterns in music that lead humans to perceive specific emotions. By replicating and measuring these metrics of emotion in audio we can learn more about the principles of musical composition, and ideally create a model capable of generating music that can fit the emotion of a user’s choice. In the evaluation of the model, the project also will most likely contribute more metrics or methods that can be used to measure the classification of emotion in music.
-

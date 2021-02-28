@@ -2,7 +2,7 @@
 
 # Touchpoint 1 and Project Proposal
 Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  Pranav Kandarpa, Bradford Peterson
-### Markdown
+
 <strong> Abstract </strong> (What is the problem? What was done previously? How do you approach it? What are the
 expected results?): 
 

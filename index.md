@@ -1,4 +1,5 @@
-Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  Pranav Kandarpa, Bradford Peterson
+Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  
+Pranav Kandarpa, Bradford Peterson
 
 ## Touchpoint 1 and Project Proposal
 

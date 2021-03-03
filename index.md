@@ -4,7 +4,7 @@ Manas Angalakuduti, Matthew Arnold, Ryan Cooper,  Pranav Kandarpa, Bradford Pete
 
 ## Touchpoint 1 and Project Proposal
 
-<a href="matthewa1999.github.io/Group11_CS4641/Resources/ProjectProposalDraft.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/ProjectProposalDraft.pdf" target="_blank">PDF</a>
 
 [Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/ProjectProposalDraft.pdf)  
 [Youtube Presentation](https://www.youtube.com/watch?v=RopPKB7D7qI)  

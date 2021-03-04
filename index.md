@@ -1,5 +1,5 @@
 
-#### Touchpoint 1 - Project Proposal
+#### Touchpoint 1 - Project Proposal  
 
 - [View Proposal Report](https://drive.google.com/file/d/1uZQzgR8jUEV8WweWRK-nB6PXnOTiGFTq/view?usp=sharing) / [Download Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/ProjectProposal.pdf)
 

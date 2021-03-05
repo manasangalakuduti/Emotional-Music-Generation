@@ -29,11 +29,19 @@ We will be using a deep recurrent neural network to generate a new MIDI sequence
 Given a set of midi notes Xt, Xt−1, . . . , X0, representing vectors at the time intervals t, t − 1, . . . , 0, we would like to generate the most likely vector Xt+1 representing the midi notes at the next time interval 
 t + 1. Because we are trying to predict the next t+1 vector based from the previous data, this is a regression problem, and the loss function can be modeled as the L2 loss function:
 
+<p align="center">
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Images/LossFunctionFormula.png" width="312" height="84">
+</p>
+
 <strong>Potential Results:</strong>  
 	
 As stated in the metrics section, our goal would be to minimize our L2 loss function. A similar project to ours, GRUV: Algorithmic Music Generation using Recurrent Neural Networks (Nayebi, Vitella) also used an L2 loss function to quantify the errors of their neural network. Likewise, in our project, the performance of the potential results will be displayed by a graph with the number of epochs on the x-axis, and LSTM loss on the y-axis.
 
 In addition to a graph depicting the loss function over time, we obviously hope to generate music from our neural network. The length of the generated music has not been determined yet, however, we will be generating a new MIDI file that contains the newly generated notes. This MIDI file could be converted into audio using a MIDI editor or a digital audio workstation. Our group can qualitatively discern the quality of the music, and decide if it is pleasing to the ear. Overall, our potential results will include a graph indicating the performance metrics of our algorithm, and they will include MIDI files of newly generated music.
+
+<p align="center">
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Images/LossFunctionPlot.png" width="340" height="370">
+</p>
 	
 <strong>Conclusion:</strong>  
 

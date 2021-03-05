@@ -30,7 +30,7 @@ Given a set of midi notes Xt, Xt−1, . . . , X0, representing vectors at the ti
 t + 1. Because we are trying to predict the next t+1 vector based from the previous data, this is a regression problem, and the loss function can be modeled as the L2 loss function:
 
 <p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossFunctionFormula.png?raw=true" width="312" height="84">
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossFunctionFormula.png?raw=true" width="312" height="84"/>
 </p>
 
 <strong>Potential Results:</strong>  
@@ -40,7 +40,7 @@ As stated in the metrics section, our goal would be to minimize our L2 loss func
 In addition to a graph depicting the loss function over time, we obviously hope to generate music from our neural network. The length of the generated music has not been determined yet, however, we will be generating a new MIDI file that contains the newly generated notes. This MIDI file could be converted into audio using a MIDI editor or a digital audio workstation. Our group can qualitatively discern the quality of the music, and decide if it is pleasing to the ear. Overall, our potential results will include a graph indicating the performance metrics of our algorithm, and they will include MIDI files of newly generated music.
 
 <p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossFunctionPlot.png?raw=true" width="340" height="370">
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossFunctionPlot.png?raw=true" width="340" height="370"/>
 </p>
 	
 <strong>Conclusion:</strong>  

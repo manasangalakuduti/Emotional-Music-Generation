@@ -1,9 +1,11 @@
 
-#### Touchpoint 2 - Midterm Report  
+#### Touchpoint 1 - Project Proposal
 
 - [View Proposal Report](https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing) / [Download Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/ProjectProposal.pdf)
 - [Youtube Presentation](https://www.youtube.com/watch?v=RopPKB7D7qI)  
 - [View Single Slide Presentation](https://drive.google.com/file/d/17fHZPUO1quHMPFOvDn-JaZQeB6V6OEae/view?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Group%2011_Presentation_Slide.pdf)  
+
+#### Touchpoint 2 - Midterm Report
 
 <strong>Abstract: </strong>
 
@@ -45,17 +47,18 @@ For the LSTM RNN metrics evaluation, we are slightly limited by the nature of th
 
 <strong>Results:</strong>  
 
-<p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Arousal.png?raw=true" width="370" height="370" />
-</p>
+| Arousal  | Valence |
+| ------------- | ------------- |
+| ![](https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Arousal.png?raw=true)  | ![](https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Valence.png?raw=true)  |
+
+Above is a graph of the predicted and ground truth valence and arousal for each file, using the predicted results from the newly developed SVR classifier. This was done with a 70/30 split of the vgmidi data set (203 files total). For arousal, the R2 value was -0.9812, the mean squared error was 0.002 and the mean absolute error was 0.0374. Qualitatively, the SVR tended to underestimate the arousal of the songs of the file. In the valence category, R2 was extremely low at -2.0899, mean squared error was 0.0033, which is quite low, and the mean absolute error was 0.0439. There are a few outliers in the valence category that need to be researched further; the 44th file was predicted to be significantly less than the ground truth.
+
 
 <p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Valence.png?raw=true" width="370" height="370" />
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossPlotGeneration.png?raw=true" width="900" height="400" />
 </p>
 
-<p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossPlotGeneration.png?raw=true" width="450" height="200" />
-</p>
+Above is the loss function using 3 midi files for 100 epochs. Our loss function converges to zero at nearly the 100th epoch.
 	
 <strong>Discussion:</strong>  
 

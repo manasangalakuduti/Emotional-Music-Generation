@@ -63,7 +63,7 @@ Above is a graph of the predicted and ground truth valence and arousal for each 
 
 
 <p align="center">
-    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossPlotGeneration.png?raw=true" width="900" height="400" />
+    <img src="https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/LossPlotGeneration.png?raw=true" width="765" height="340" />
 </p>
 
 Above is the loss function using 3 midi files for 100 epochs. This served as a baseline test to observe the performance of the generation on a smaller set of files. The loss function converges very well, but as the training dataset size increases the loss function will not be so smooth. The audio of the output is below.

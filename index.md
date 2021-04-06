@@ -47,7 +47,7 @@ For the LSTM RNN metrics evaluation, we are slightly limited by the nature of th
 
 <strong>Results:</strong>  
 
-| Arousal  | Valence |
+|   |  |
 | ------------- | ------------- |
 | ![](https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Arousal.png?raw=true)  | ![](https://github.com/Matthewa1999/Group11_CS4641/blob/main/Resources/Images/Valence.png?raw=true)  |
 

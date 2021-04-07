@@ -9,7 +9,7 @@
 
 - [View Midterm Report](https://docs.google.com/document/d/1Ki2V2uQlul5NV79MJjTuaRkYOiet8fxjDFzWAYuINVM/edit?usp=sharing) / [Download Midterm Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/4641%20Touchpoint%202.pdf)
 - [Video Presentation](https://drive.google.com/file/d/1AGQTWyEGKvB4_enZnyRaWGZrqcT9OJHw/view?usp=sharing)
-- [View Single Slide Presentation](https://docs.google.com/presentation/d/19Ye_LmaB2GGEtrZioqolIlFksrIz1FdTXzutWpHujK0/edit?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/Touchpoint2.pptx.pdf)
+- [View Single Slide Presentation](https://drive.google.com/file/d/1gb3_R6tLC7BpvHblL0Vkb3-lQYzb2_H2/view?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/Touchpoint2.pptx.pdf)
 
 
 <strong>Abstract: </strong>

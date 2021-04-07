@@ -1,15 +1,15 @@
 
 #### Touchpoint 1 - Project Proposal
 
-- [View Proposal Report](https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing) / [Download Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/ProjectProposal.pdf)
+- [View Proposal Report](https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing) / [Download Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/ProjectProposal.pdf)
 - [Video Presentation](https://www.youtube.com/watch?v=RopPKB7D7qI)  
-- [View Single Slide Presentation](https://drive.google.com/file/d/17fHZPUO1quHMPFOvDn-JaZQeB6V6OEae/view?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Group%2011_Presentation_Slide.pdf)  
+- [View Single Slide Presentation](https://drive.google.com/file/d/17fHZPUO1quHMPFOvDn-JaZQeB6V6OEae/view?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/Group%2011_Presentation_Slide.pdf)  
 
 #### Touchpoint 2 - Midterm Report
 
-- [View Midterm Report]() / [Download Midterm Report]()
-- [Video Presentation]()
-- [View Single Slide Presentation]() / [Download Single Slide Presentation]()
+- [View Midterm Report](https://docs.google.com/document/d/1Ki2V2uQlul5NV79MJjTuaRkYOiet8fxjDFzWAYuINVM/edit?usp=sharing) / [Download Midterm Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/4641%20Touchpoint%202.pdf)
+- [Video Presentation](https://drive.google.com/file/d/1AGQTWyEGKvB4_enZnyRaWGZrqcT9OJHw/view?usp=sharing)
+- [View Single Slide Presentation](https://docs.google.com/presentation/d/19Ye_LmaB2GGEtrZioqolIlFksrIz1FdTXzutWpHujK0/edit?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/Touchpoint2.pptx.pdf)
 
 
 <strong>Abstract: </strong>

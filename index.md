@@ -1,4 +1,6 @@
 
+### [Download Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%203/Final%20Report.pdf) </center>
+
 #### Touchpoint 1 - Project Proposal
 
 - [View Proposal Report](https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing) / [Download Proposal Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/ProjectProposal.pdf)
@@ -17,7 +19,7 @@
 - [Video Presentation](https://youtu.be/OCxUiu2lKPA)
 - [View Single Slide Presentation](https://drive.google.com/file/d/18BRS1A1FQskG9TWWPChqehzb8xxbpk1K/view?usp=sharing) / [Download Single Slide Presentation](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Images/Touchpoint%203.pptx.pdf)
 
-[**Download Paper**](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%203/Final%20Report.pdf)
+
 
 <strong>Abstract: </strong>
 

@@ -2,7 +2,6 @@
 #### [Download Report](https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%203/Final%20Report.pdf)  
 
 <br/>
-<br/>
   
 #### Touchpoint 1 - Project Proposal
 

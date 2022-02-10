@@ -1,7 +1,7 @@
 # Emotional Music Generation
 
 Touchpoint 1 - Project Proposal
-- <a href="https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing">View Proposal Report</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/ProjectProposal.pdf">Download Proposal Reportt</a>
+- <a style="color:red" href="https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing">View Proposal Report</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/ProjectProposal.pdf">Download Proposal Report</a>
 - Video Presentation
 - View Single Slide Presentation / Download Single Slide Presentation  
 

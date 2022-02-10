@@ -1,19 +1,19 @@
 # Emotional Music Generation
-
+<a href="">title</a> / <a href="">title</a>
 Touchpoint 1 - Project Proposal
 - <a href="https://drive.google.com/file/d/1xS-L8BZmzfwZYZ3VzKxn5t_0B7f9yxZb/view?usp=sharing">View Proposal Report</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/ProjectProposal.pdf">Download Proposal Report</a>
 - <a href="https://www.youtube.com/watch?v=RopPKB7D7qI">Video Presentation</a>
 - <a href="https://drive.google.com/file/d/17fHZPUO1quHMPFOvDn-JaZQeB6V6OEae/view?usp=sharing">View Single Slide Presentation</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%201/Group%2011_Presentation_Slide.pdf">Download Single Slide Presentation  </a>
 
 Touchpoint 2 - Midterm Report
-- View Midterm Report / Download Midterm Report
-- Video Presentation
-- View Single Slide Presentation / Download Single Slide Presentation  
+- <a href="https://docs.google.com/document/d/1Ki2V2uQlul5NV79MJjTuaRkYOiet8fxjDFzWAYuINVM/edit?usp=sharing">View Midterm Report</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/4641%20Touchpoint%202.pdf">Download Midterm Report</a>
+- <a href="https://drive.google.com/file/d/1AGQTWyEGKvB4_enZnyRaWGZrqcT9OJHw/view?usp=sharing">Video Presentation</a>
+- <a href="https://drive.google.com/file/d/1gb3_R6tLC7BpvHblL0Vkb3-lQYzb2_H2/view?usp=sharing">View Single Slide Presentation</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%202/Touchpoint2.pptx.pdf">Download Single Slide Presentation  </a>
 
 Touchpoint 3 - Final Report
-- View Final Report / Download Final Report
-- Video Presentation
-- View Single Slide Presentation / Download Single Slide Presentation
+- <a href="https://drive.google.com/file/d/1_W4HS8BC4CZxNYUSi0_HSE2K-fz24mOc/view?usp=sharing">View Final Report</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Touchpoint%203/Final%20Report.pdf">Download Final Report</a>
+- <a href="https://youtu.be/OCxUiu2lKPA">Video Presentation</a>
+- <a href="https://drive.google.com/file/d/18BRS1A1FQskG9TWWPChqehzb8xxbpk1K/view?usp=sharing">View Single Slide Presentation</a> / <a href="https://github.com/Matthewa1999/Group11_CS4641/raw/main/Resources/Images/Touchpoint%203.pptx.pdf">Download Single Slide Presentation</a> 
 
 
 
